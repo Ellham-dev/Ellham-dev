@@ -51,7 +51,7 @@
 ### 🛒 [Estore React](https://github.com/Ellham-dev/estore-react)
 > 🔹 E-commerce platform built with React & styled components.
 
-### 📝 [MetaBlog](https://github.com/Ellham-dev/metaBlog)
+### 📝 [clicon_eCommerse](https://github.com/Ellham-dev/clicon_eCommerse)
 > 🔹 A blogging website built with React and local JSON APIs.
 
 ### 🎨 [Product Studio](https://github.com/Ellham-dev/product-studio-with-react)
